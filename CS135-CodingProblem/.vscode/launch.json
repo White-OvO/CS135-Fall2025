@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/christopherggonzalez/Desktop/cs135 fall semester 2025/ day 2 coding ",
+      "program": "/Users/christopherggonzalez/Desktop/cs135 fall semester 2025/ day 2 coding /build/Debug/outDebug"
+    }
+  ]
+}
