@@ -38,8 +38,9 @@ WW         WW  OO    OO  RR   RR  LL       DD   DD
 */
 
 using namespace std;
-
 int main() {
+
+
 	cout << "Hello CodeGrade!\n";
 	cout << "HH   HH  EEEEEEE  LL       LL        OOOOOO\n";
 	cout << "HH   HH  EE       LL       LL       OO    OO\n";
@@ -53,7 +54,10 @@ int main() {
 	cout << "WW     WW      OOOOOO   RRRRRR   LL      DDDDDD \n";
 	cout << " WW     WW     OO    OO  RR   RR  LL      DD   DD \n";
 	cout << " WW WWW WW     OO    OO  RRRRRR   LL      DD   DD \n";
-	cout << " WWW   WWW     OO    OO  RR   RR  LL      DD  DD\n";
-	cout << "  WW   WW       OOOOOO   RR   RR  LLLLLLL DDDDDD\n";
+	cout << " WWW   WWW     OO    OO  RR   RR  LL      DD   DD\n";
+	cout << " WW     WW      OOOOOO   RR   RR  LLLLLLL DDDDDD\n";
+	
+	
+	cout << "Hello CodeGrade!"; 
 	return 0;
 }
