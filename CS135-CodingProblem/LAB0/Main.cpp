@@ -51,11 +51,11 @@ int main() {
 
 	//cout << "\n ";
 	
-	cout << "WW     WW      OOOOOO   RRRRRR   LL      DDDDDD \n";
-	cout << " WW     WW     OO    OO  RR   RR  LL      DD   DD \n";
-	cout << " WW WWW WW     OO    OO  RRRRRR   LL      DD   DD \n";
-	cout << " WWW   WWW     OO    OO  RR   RR  LL      DD   DD\n";
-	cout << " WW     WW      OOOOOO   RR   RR  LLLLLLL DDDDDD\n";
+	cout << "WW     WW     OOOOOO   RRRRRR   LL      DDDDDD \n";
+	cout << " WW     WW    OO    OO  RR   RR  LL      DD   DD \n";
+	cout << " WW WWW WW    OO    OO  RRRRRR   LL      DD   DD \n";
+	cout << " WWW   WWW    OO    OO  RR   RR  LL      DD   DD\n";
+	cout << " WW     WW     OOOOOO   RR   RR  LLLLLLL DDDDDD\n";
 	
 	
 	cout << "Hello CodeGrade!"; 
